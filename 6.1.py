@@ -5,6 +5,7 @@ from multiprocessing import Pool, cpu_count
 from math import sqrt
 from timeit import default_timer as timer
 
+
 def pi_part(n):
     print(n)
 
