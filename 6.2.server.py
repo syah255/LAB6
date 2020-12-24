@@ -4,6 +4,7 @@ import time
 import errno
 from multiprocessing import Process
 
+
 ok_message = 'HTTP/1.0 200 OK\n\n'
 nok_message = 'HTTP/1.0 404 NotFound\n\n'
 
